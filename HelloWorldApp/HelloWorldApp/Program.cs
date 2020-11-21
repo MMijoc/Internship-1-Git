@@ -12,6 +12,7 @@ namespace HelloWorldApp
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello from Kristina");
+            Console.WriteLine("Another change for my last commit");
         }
     }
 }
